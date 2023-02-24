@@ -1,3 +1,3 @@
 # OregonLampreyDistributionModel
-Project Title 
-- Species Distribution Models for Pacific Lamprey and Western Brook Lamprey
+#### Species Distribution Models for Pacific Lamprey and Western Brook Lamprey
+##### Parker Jung
