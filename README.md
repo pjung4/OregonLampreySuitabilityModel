@@ -14,8 +14,8 @@ I will be making models to predict the presence of pacific lamprey and western b
 - https://spatialdata.oregonexplorer.info/geoportal/details;id=4b1b008d5a764a209b2df040689c0779
 5. Oregon Waterbodies
 - https://spatialdata.oregonexplorer.info/geoportal/details;id=3a2d5a628a3b4f4e8f45dc5212dd6857
-<a/>\
-**Python Packages**
+\
+<br>**Python Packages**
 - jupyter
 - matplotlib
 - geopandas
@@ -23,3 +23,15 @@ I will be making models to predict the presence of pacific lamprey and western b
 - pandas
 - rasterio
 - sklearn
+\
+<br>**Methods**
+Get data for landcover, elevation, slope, aspect, and hillshade from Oregon Spatial Data Library layers.
+Filter and format data in ArcGIS Pro, calculate stream density
+Test correlation between species presence and each of the factors above.
+Test different models for predicting species presence and select the one that performs best.
+Plot results
+\
+<br> The goal is to produce a raster layer of the distribution of each species to be used in a future comparative analysis.
+\
+<br> **References**
+- Wydoski, & Whitney, R. R. (2003). Inland fishes of Washington (2nd ed., rev. and expanded.). American Fisheries Society in association with University of Washington Press.
