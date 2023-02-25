@@ -15,7 +15,8 @@ I will be making models to predict the presence of pacific lamprey and western b
 5. Oregon Waterbodies
 - https://spatialdata.oregonexplorer.info/geoportal/details;id=3a2d5a628a3b4f4e8f45dc5212dd6857
 \
-**Python Packages**
+<a/>
+<br>**Python Packages**
 - jupyter
 - matplotlib
 - geopandas
