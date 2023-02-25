@@ -12,8 +12,8 @@ I will be making models to predict the presence of pacific lamprey and western b
 - https://spatialdata.oregonexplorer.info/geoportal/details;id=776e6118422b429c8c3024f289f9f192
 4. Oregon Watershed Boundary Dataset (Hydrologic Unit Boundaries) - 2015
 - https://spatialdata.oregonexplorer.info/geoportal/details;id=4b1b008d5a764a209b2df040689c0779
-5. Oregon Waterbodies
-- https://spatialdata.oregonexplorer.info/geoportal/details;id=3a2d5a628a3b4f4e8f45dc5212dd6857
+5. Oregon Water Bodies - 2005
+- https://spatialdata.oregonexplorer.info/geoportal/details;id=3439a3c43f9f4c4499802f55898b7dd8
 \
 <br>**Python Packages**
 - jupyter
