@@ -25,11 +25,11 @@ I will be making models to predict the presence of pacific lamprey and western b
 - sklearn
 \
 <br>**Methods**
-Get data for landcover, elevation, slope, aspect, and hillshade from Oregon Spatial Data Library layers.
-Filter and format data in ArcGIS Pro, calculate stream density
-Test correlation between species presence and each of the factors above.
-Test different models for predicting species presence and select the one that performs best.
-Plot results
+- Get data for landcover, elevation, slope, aspect, and hillshade from Oregon Spatial Data Library layers.
+- Filter and format data in ArcGIS Pro, calculate stream density
+- Test correlation between species presence and each of the factors above.
+- Test different models for predicting species presence and select the one that performs best.
+- Plot results
 \
 <br> The goal is to produce a raster layer of the distribution of each species to be used in a future comparative analysis.
 \
