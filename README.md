@@ -8,8 +8,8 @@ I will be making models to predict the presence of pacific lamprey and western b
 2. Oregon 10m Digital Elevation Model
 -  https://spatialdata.oregonexplorer.info/geoportal/details;id=7a82c1be50504f56a9d49d13c7b4d9aa
 -  https://ftp.gis.oregon.gov/framework/elevation/DEM/Statewide_Filegeodatabase/DEM_DOWNLOAD_HELP_README.txt
-3. Ecological Systems - 2010
-- https://spatialdata.oregonexplorer.info/geoportal/details;id=776e6118422b429c8c3024f289f9f192
+3. Canopy Cover and Forest Type from OSU LEMMA
+- https://lemma.forestry.oregonstate.edu/data/species-maps
 4. Oregon Watershed Boundary Dataset (Hydrologic Unit Boundaries) - 2015
 - https://spatialdata.oregonexplorer.info/geoportal/details;id=4b1b008d5a764a209b2df040689c0779
 5. Oregon Water Bodies - 2005
