@@ -31,7 +31,7 @@ Assessment of significance of explanatory variables (elevation, slope, aspect, h
 - Test different models for predicting species presence and select the one that performs best.
 - Plot results
 \
-<br> The goal is to produce a raster layer of the distribution of each species to be used in a future comparative analysis.
+<br> The goal is to produce a raster layer of the habitat suitability for each species to be used in a future comparative analysis.
 \
 <br> **References**
 - Wydoski, & Whitney, R. R. (2003). Inland fishes of Washington (2nd ed., rev. and expanded.). American Fisheries Society in association with University of Washington Press.
